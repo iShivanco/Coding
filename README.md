@@ -1,2 +1,2 @@
-# Coding
+# CODING
 coding box
